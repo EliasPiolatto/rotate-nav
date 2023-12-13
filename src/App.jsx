@@ -27,16 +27,16 @@ function App() {
         </div>
 
         <div className="content">
-          <h1>Amazing Article</h1>
-          <small>Florin Pop</small>
+          <h1>Artículo</h1>
+          <small>Labrador Retriever</small>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia in ratione dolores cupiditate, maxime aliquid impedit dolorem nam dolor omnis atque fuga labore modi veritatis porro laborum minus, illo, maiores recusandae cumque ipsa quos. Tenetur, consequuntur mollitia labore pariatur sunt quia harum aut. Eum maxime dolorem provident natus veritatis molestiae cumque quod voluptates ab non, tempore cupiditate? Voluptatem, molestias culpa. Corrupti, laudantium iure aliquam rerum sint nam quas dolor dignissimos in error placeat quae temporibus minus optio eum soluta cupiditate! Cupiditate saepe voluptates laudantium. Ducimus consequuntur perferendis consequatur nobis exercitationem molestias fugiat commodi omnis. Asperiores quia tenetur nemo ipsa.
+          El labrador es un perro grande, de constitución fuerte y buena estructura ósea y muscular. Tiene la cabeza ancha y una mirada dulce e inteligente. Su cola, parecida a la de las nutrias, es única. El pelaje es corto y denso y puede ser de color negro liso, amarillo o marrón. Los machos adultos miden entre 56 y 57 cm y pesan unos 30 kg. Las hembras miden entre 55 y 56 cm y pesan 28 kg.
           </p>
 
-          <h3>My Dog</h3>
+          <h3>Mi perro</h3>
           <img src="https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80" alt="doggy" />
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit libero deleniti rerum quo, incidunt vel consequatur culpa ullam. Magnam facere earum unde harum. Ea culpa veritatis magnam at aliquid. Perferendis totam placeat molestias illo laudantium? Minus id minima doloribus dolorum fugit deserunt qui vero voluptas, ut quia cum amet temporibus veniam ad ea ab perspiciatis, enim accusamus asperiores explicabo provident. Voluptates sint, neque fuga cum illum, tempore autem maxime similique laborum odio, magnam esse. Aperiam?
+          El labrador es, sin lugar a duda, una de las tres razas preferidas a la hora de escoger una mascota para la familia... siempre que te gusta el ejercicio, claro. Son afables, tranquilos y cariñosos con todo el mundo. Son unos animales sociables y flexibles que se llevan bien con otros animales y con los niños, con los que muestran paciencia e indulgencia. Aun así, conviene no abusar de eso en extremo. Son enormemente fieles y les encanta sentirse incluidos en la familia, a todos los niveles. Ladrarán para advertir de la presencia de desconocidos, pero saldrán a recibirlos con los brazos abiertos.
           </p>
         </div>
       </div>
@@ -45,7 +45,7 @@ function App() {
         <ul>
           <li><i className="fas fa-home"></i><a href="#"> Home</a></li>
           <li><i className="fas fa-user-alt"></i><a href="#"> About</a></li>
-          <li><i className="fas fa-envelope"></i><a href="#"> Contact</a></li>
+          <li><i className="fas fa-envelope"></i><a href="https://elias-piolatto.vercel.app/" target="_blank" rel="noreferrer"> Contact</a></li>
         </ul>
       </nav>
     </>
